@@ -1,8 +1,8 @@
 taller 1
 
-Nombre: student_name
-Código: student_id
-Descripción
+Nombre: Ricardo Delgado 
+Código: A00268540 
+Descripción: Entrega taller 1 (vagrant y chef)
 
 Corta descripción de lo realizado en el taller
 Soluciones
